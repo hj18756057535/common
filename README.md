@@ -1,3 +1,6 @@
 # common
 Basic architecture
-io stream
+
+algorithm
+
+io stream utils
